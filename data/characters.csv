@@ -1,0 +1,28 @@
+﻿Character,Class,Speed,Weight,Acceleration,Handling,Drift,Off-Road,Mini-Turbo
+Baby Mario,Light,0,8,0,6,0,0,0
+Baby Luigi,Light,5,8,0,0,0,0,0
+Baby Peach,Light,3,6,3,3,0,0,0
+Baby Daisy,Light,5,6,0,0,0,0,3
+Toad,Light,0,0,6,0,6,0,0
+Toadette,Light,3,0,0,0,0,6,0
+Koopa Troopa,Light,0,0,0,3,0,0,6
+Dry Bones,Light,0,0,3,0,3,0,3
+Mii S,Light,3,3,0,0,3,0,3
+Mario,Medium,0,6,2,2,3,0,0
+Luigi,Medium,2,6,0,0,0,0,0
+Peach,Medium,2,0,5,0,6,0,0
+Daisy,Medium,4,0,0,2,0,0,3
+Yoshi,Medium,0,3,0,0,3,5,0
+Birdo,Medium,0,3,0,0,0,3,4
+Diddy Kong,Medium,0,0,3,0,3,0,5
+Bowser Jr.,Medium,0,0,0,0,0,3,3
+Mii M,Medium,3,3,0,0,0,3,3
+Wario,Heavy,0,3,0,0,0,3,6
+Waluigi,Heavy,0,0,6,0,5,3,0
+Donkey Kong,Heavy,0,3,2,2,0,0,3
+Bowser,Heavy,2,5,0,0,3,0,0
+King Boo,Heavy,0,0,0,5,0,3,0
+Rosalina,Heavy,3,0,0,3,0,0,3
+Funky Kong,Heavy,4,0,0,0,0,3,0
+Dry Bowser,Heavy,0,0,0,0,0,6,6
+Mii L,Heavy,3,0,3,3,3,0,0
